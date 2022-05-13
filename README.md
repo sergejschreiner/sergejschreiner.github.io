@@ -1,2 +1,2 @@
-# sergejschreiner.github.io
+# Сергей Шрайнер
 1st site
